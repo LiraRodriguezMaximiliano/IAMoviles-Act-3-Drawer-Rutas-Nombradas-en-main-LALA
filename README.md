@@ -21,6 +21,10 @@ samples, guidance on mobile development, and a full API reference.
 # Prompt
 Lenguaje Dart flutter nivel princpiante,
 Haz un menu Hamburguesa acerca de la marca LALA de leche, debe de en el encabezado del menu hamburguesa el nombre de la empresa(LALA) y pones direccion(Calle 13), telefono(656-429-2001) y correo(contacto@lala.com.mx)
+
 En el listile debe de haber icono, texto y acción para abrir  pagina según opción de listile las opciones seran, Productos lacteos, Productos NO lacteos, Recetas y reseñas
+
 En cada pagina una imagen centrada de 200x200 desde la red (Eso lo hago yo), 
+
 Primero dame un ejemplo de el archivo junto y despues Utilizar rutas nombradas para navegar entre paginas desde el drawer
+
